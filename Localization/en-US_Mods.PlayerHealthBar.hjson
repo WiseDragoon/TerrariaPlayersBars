@@ -1,0 +1,30 @@
+Configs: {
+	PlayerBarsConfig: {
+		ShowHealthBar: {
+			Tooltip: Show a health bar underneath the player
+			Label: Show Health Bar
+		}
+
+		DisplayName: Player Bars Config
+
+		ShowManaBar: {
+			Label: Show Mana Bar
+			Tooltip: Show a mana bar underneath the player
+		}
+
+		AutoHideWhenFull: {
+			Label: Hide bars when full
+			Tooltip: Automatically hide any bar when they reach 100%
+		}
+
+		Scale: {
+			Label: Scale
+			Tooltip: How big or small the bars are displayed
+		}
+
+		Offset: {
+			Label: Offset
+			Tooltip: How far in pixels from the player's center the bars will be shown (affected by zoom)
+		}
+	}
+}

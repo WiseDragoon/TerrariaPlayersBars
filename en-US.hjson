@@ -1,0 +1,34 @@
+Mods: {
+	PlayerBars: {
+		Configs: {
+			PlayerBarsConfig: {
+				Offset: {
+					Tooltip: ""
+					Label: Offset
+				}
+
+				Scale: {
+					Tooltip: ""
+					Label: Scale
+				}
+
+				ShowHealthBar: {
+					Tooltip: ""
+					Label: Show Health Bar
+				}
+
+				DisplayName: Player Bars Config
+
+				ShowManaBar: {
+					Label: Show Mana Bar
+					Tooltip: ""
+				}
+
+				AutoHideWhenFull: {
+					Label: Auto Hide When Full
+					Tooltip: ""
+				}
+			}
+		}
+	}
+}

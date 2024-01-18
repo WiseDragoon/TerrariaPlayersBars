@@ -1,0 +1,1 @@
+Simple mod to add Health and Mana bars underneath the player sprite, similar to how enemies or other player's Health bar are shown.

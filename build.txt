@@ -1,0 +1,5 @@
+displayName = Player Health and Mana Bars
+author = WiseDragoon
+version = 1.0
+side = client
+buildIgnore = .gitignore, *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*, Properties\*, .git\*
